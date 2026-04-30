@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bohdan Bats 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · 5 years of experience · .NET & Flutter · AI Product Owner</b><br/>
+  <b>Full Stack Developer · 5 years of experience · .NET & VueJS & Flutter · AI Product Owner</b><br/>
   Lviv, Ukraine 🇺🇦
 </p>
 
@@ -67,7 +67,7 @@ Over the past **5 years** I've shipped production-grade **.NET** and **Flutter**
 
 ## 🚀 Featured Projects
 
-### 🧠 [Principles: Habits for Goals](https://github.com/bob-byte) — *AI-powered mobile app*
+### 🧠 [Principles: Habits for Goals](https://principles.top) — *AI-powered mobile app*
 > An AI assistant for building habits, tracking goals, and managing tasks. Live on **iOS & Android** for 1+ year with real users and revenue.
 
 - **Stack:** Flutter · .NET MAUI · ASP.NET Core · Azure OpenAI · PostgreSQL · EF Core · Docker · MVVM
