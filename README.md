@@ -20,7 +20,7 @@
 
 I don't just write code — I build products people actually use.
 
-Over the past **5 years** I've shipped production-grade **.NET** and **Flutter** applications across full-time roles, my own startup, and other projects. What sets me apart: I designed, built, and launched my own **AI-powered mobile app** — *Principles: Habits for Goals* — running on **Azure OpenAI**, live on the App Store and Google Play for over a year with real paying users.
+Over the past **5 years** I've shipped production-grade **.NET** and **Flutter** applications across full-time roles, my own startup, and other projects. What sets me apart: I designed, built, and launched my own **AI-powered mobile app** — *Principles: Habits for Goals* — running on **Azure OpenAI**, live on the App Store and Google Play for over a year with real users.
 
 - 🚀 **Founder & Tech Lead** of an AI-powered habits & goals app (iOS + Android)
 - 🧑‍🏫 **Programming Teacher** at Sambir Vocational Pedagogical College — mentored 2 developers now working at real IT companies
