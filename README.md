@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bohdan Bats 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · .NET & Flutter · AI Product Owner</b><br/>
+  <b>Full Stack Developer · 5 years of experience · .NET & Flutter · AI Product Owner</b><br/>
   Lviv, Ukraine 🇺🇦
 </p>
 
