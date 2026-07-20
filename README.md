@@ -18,14 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I don't just write code — I build products people actually use.
+I build products that solve real problems, not just write code.
 
-Over the past **5 years** I've shipped production-grade **.NET** and **Flutter** applications across full-time roles, my own startup, and other projects. What sets me apart: I designed, built, and launched my own **AI-powered mobile app** — *Principles: Habits for Goals* — running on **Azure OpenAI**, live on the App Store and Google Play for over a year with real users.
+Full Stack Developer with 5+ years of experience building scalable web, backend, and cross-platform mobile applications using .NET, Flutter, Vue.js, and Azure.
 
-- **Founder & Tech Lead** of an AI-powered habits & goals app (iOS + Android)
-- **Programming Teacher** at Sambir Vocational Pedagogical College — mentored 2 developers now working at real IT companies
-- **Full Stack Engineer** at Booksoft, building accounting & document management software
-- Passionate about the intersection of **.NET backend**, **mobile (Flutter)**, and **AI integration**
+Built and launched my own AI-powered productivity app using Azure OpenAI, gaining hands-on experience delivering a product from concept to production with a focus on scalability, clean architecture, and long-term maintainability.
+
+Previously served as a Tech Lead, Founder, and CEO of an AI startup. I also mentor developers and lecture Computer Science.
 
 ---
 
