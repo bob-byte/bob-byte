@@ -21,13 +21,9 @@
 
 ## 👨‍💻 About Me
 
-I build products that solve real problems, not just write code.
+.NET developer with 5+ years of commercial experience building multithreading and scalable backend, desktop, web, and mobile applications using ASP .NET Core, .NET MAUI, PostgreSQL, Python, React.js, Vue.js, Azure, WPF, and Flutter. Experienced in migrating legacy systems to modern frameworks, implementing CI/CD processes, and deploying large-scale production applications. Focused on integrating AI capabilities and automation into production systems. Experience spans fintech, productivity, file-sharing, and edtech domains.
 
-Full Stack Developer with 5+ years of experience building scalable web, backend, and cross-platform mobile applications using .NET, Flutter, Vue.js, and Azure.
-
-Built and launched my own AI-powered productivity app - **Principles** - end to end: Flutter & .NET MAUI clients, ASP.NET Core API, and a React marketing site. Hands-on with Azure OpenAI / OpenAI APIs, offline-first sync, and shipping to production with real users and revenue.
-
-Previously served as a Tech Lead, Founder, and CEO of an AI startup. I also mentor developers and lecture Computer Science.
+Alongside full-time development work, personally designed, built, and shipped an AI-powered productivity app as Founder and Tech Lead - owning everything from architecture to hands-on implementation - and currently teach software engineering and programming at the college level, combining product ownership, engineering, and mentorship.
 
 ---
 
