@@ -134,6 +134,6 @@ Four repositories make up the product:
 ---
 
 <p align="center">
-  <i>Open to Senior .NET / Flutter roles with AI integration. Let's build something great together.</i><br/>
+  <i>Open to Senior .NET + Flutter/React roles with AI integration. Let's build something great together.</i><br/>
   <a href="mailto:batsbohdan@gmail.com">batsbohdan@gmail.com</a> · <a href="https://www.linkedin.com/in/bohdan-bats-6611a11b7/">LinkedIn</a> · <a href="https://principles.top">principles.top</a>
 </p>
