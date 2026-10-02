@@ -105,10 +105,22 @@ Four repositories make up the product:
 
 ## 📚 Education & Certifications
 
+### Education
 - 🎓 **Master of Computer Science** - National Forestry University of Ukraine *(2022–2024)*
 - 🎓 **Bachelor of Computer Science** - Ivan Franko National University of Lviv *(2018–2022)*
-- 📜 **The Complete Course of .NET MAUI** - Udemy *(Nov 2025 – Jan 2026)*
-- 📜 **Certificate of Entity Framework** - Udemy *(2020)*
+
+### Technical certifications
+- 📜 **The Complete Flutter Guide: Build Android, iOS and Web apps** - Udemy *(May 2026)*
+- 📜 **The Complete Course of .NET MAUI** - Udemy *(Jan 2026)*
+- 📜 **Entity Framework in Depth: The Complete Guide** - Udemy *(Oct 2020)*
+- 📜 **Advanced Windows Presentation Foundation (WPF)** - Udemy *(Jan 2021)*
+- 📜 **Artificial Intelligence Technologies 2021 Summer School** - Ivan Franko National University of Lviv × GlobalLogic *(Jul 2021 · 120 h / 4 ECTS)*
+- 📜 **Data Engineering and Security 2022 (DES 2022)** - Winter School, Ivan Franko National University of Lviv *(Feb 2022 · 120 h / 4 ECTS)*
+- 📜 **Data Engineering and Security 2021 (DES 2021)** - Winter School, Ivan Franko National University of Lviv *(Feb 2021 · 120 h / 4 ECTS)*
+
+### Soft skills
+- 📜 **Depth 2.0** - Oleshko.pro *(Jan 2025 – Jan 2026)* - goals, values, internal motivation
+- 📜 **Open Your Mouth - Online** - Oleshko.pro *(Oct–Nov 2024)* - public speaking, charisma, leadership communication
 
 ---
 
