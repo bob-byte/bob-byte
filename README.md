@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bohdan Bats 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · 5 years of experience · .NET & VueJS & Flutter · AI Product Owner</b><br/>
+  <b>Full Stack Developer · 5 years of experience · .NET & React & Flutter · AI Product Owner</b><br/>
   Lviv, Ukraine 🇺🇦
 </p>
 
@@ -25,7 +25,7 @@ I build products that solve real problems, not just write code.
 
 Full Stack Developer with 5+ years of experience building scalable web, backend, and cross-platform mobile applications using .NET, Flutter, Vue.js, and Azure.
 
-Built and launched my own AI-powered productivity app — **Principles** — end to end: Flutter & .NET MAUI clients, ASP.NET Core API, and a React marketing site. Hands-on with Azure OpenAI / OpenAI APIs, offline-first sync, and shipping to production with real users and revenue.
+Built and launched my own AI-powered productivity app - **Principles** - end to end: Flutter & .NET MAUI clients, ASP.NET Core API, and a React marketing site. Hands-on with Azure OpenAI / OpenAI APIs, offline-first sync, and shipping to production with real users and revenue.
 
 Previously served as a Tech Lead, Founder, and CEO of an AI startup. I also mentor developers and lecture Computer Science.
 
@@ -71,7 +71,7 @@ Previously served as a Tech Lead, Founder, and CEO of an AI startup. I also ment
 
 ## 🚀 Featured Projects
 
-### 🧠 [Principles: Habits for Goals](https://principles.top) — *AI-powered productivity product*
+### 🧠 [Principles: Habits for Goals](https://principles.top) - *AI-powered productivity product*
 > An AI assistant for building habits, tracking goals, and managing tasks. Live on **iOS, Android & macOS** with real users and revenue. Designed and shipped end-to-end as solo founder + tech lead.
 
 Four repositories make up the product:
@@ -80,7 +80,7 @@ Four repositories make up the product:
 |-------|------|------|
 | 📱 **Flutter client** | [flutter-frontend-of-principles](https://github.com/bob-byte/flutter-frontend-of-principles) | Primary cross-platform rewrite (iOS, Android, macOS): MVVM, offline SQLite + incremental sync, home-screen widgets, deep links, local notifications, AI Helper chat, EN/UK l10n |
 | ⚙️ **Backend API** | [backend-of-principles-app](https://github.com/bob-byte/backend-of-principles-app) | ASP.NET Core 10 WebAPI: JWT auth (email / Apple / Google), goals · habits · tasks, bootstrap + incremental sync, AI chat & recommendations, reminders, FCM silent sync push, PostgreSQL + EF Core |
-| 📲 **.NET MAUI client** | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Shipping native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications — the original production app |
+| 📲 **.NET MAUI client** | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Shipping native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications - the original production app |
 | 🌐 **Marketing site** | [website-of-principles-app](https://github.com/bob-byte/website-of-principles-app) | React + Vite landing, legal pages, EN/UK i18n, themes, SEO, and account-deletion flow at [principles.top](https://principles.top) |
 
 - **Stack:** Flutter · .NET MAUI · ASP.NET Core · React · PostgreSQL · EF Core · SQLite · OpenAI / Azure OpenAI · Docker · FCM · MVVM
@@ -89,14 +89,14 @@ Four repositories make up the product:
 
 ---
 
-### 🔍 [Discovery Service](https://github.com/bob-byte/DiscoveryService) — *P2P local network node discovery*
+### 🔍 [Discovery Service](https://github.com/bob-byte/DiscoveryService) - *P2P local network node discovery*
 > Finds nodes in a local network, runs periodic information updates, and enables file downloads from contacts.
 
 - **Stack:** C# · WPF · .NET Framework · Multithreading · Docker · SOLID · Design Patterns
 
 ---
 
-### 🛒 [Shop](https://github.com/bob-byte/Shop) — *E-commerce REST API*
+### 🛒 [Shop](https://github.com/bob-byte/Shop) - *E-commerce REST API*
 > A backend e-commerce application with clean architecture.
 
 - **Stack:** ASP.NET Web API · Entity Framework · .NET Framework · SQL Server
@@ -105,10 +105,10 @@ Four repositories make up the product:
 
 ## 📚 Education & Certifications
 
-- 🎓 **Master of Computer Science** — National Forestry University of Ukraine *(2022–2024)*
-- 🎓 **Bachelor of Computer Science** — Ivan Franko National University of Lviv *(2018–2022)*
-- 📜 **The Complete Course of .NET MAUI** — Udemy *(Nov 2025 – Jan 2026)*
-- 📜 **Certificate of Entity Framework** — Udemy *(2020)*
+- 🎓 **Master of Computer Science** - National Forestry University of Ukraine *(2022–2024)*
+- 🎓 **Bachelor of Computer Science** - Ivan Franko National University of Lviv *(2018–2022)*
+- 📜 **The Complete Course of .NET MAUI** - Udemy *(Nov 2025 – Jan 2026)*
+- 📜 **Certificate of Entity Framework** - Udemy *(2020)*
 
 ---
 
