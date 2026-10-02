@@ -76,7 +76,7 @@ Four repositories make up the product:
 |-------|------|------|
 | 📱 **Flutter client** *(production)* | [flutter-frontend-of-principles](https://github.com/bob-byte/flutter-frontend-of-principles) | Current store / production app (iOS, Android, macOS): MVVM, offline SQLite + incremental sync, home-screen widgets, deep links, local notifications, AI Helper chat, EN/UK l10n |
 | ⚙️ **Backend API** | [backend-of-principles-app](https://github.com/bob-byte/backend-of-principles-app) | ASP.NET Core 10 WebAPI: JWT auth (email / Apple / Google), goals · habits · tasks, bootstrap + incremental sync, AI chat & recommendations, reminders, FCM silent sync push, PostgreSQL + EF Core |
-| 📲 **.NET MAUI client** *(previous)* | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Earlier native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications — kept for reference and API/behavior parity |
+| 📲 **.NET MAUI client** | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Earlier native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications — kept for reference and API/behavior parity |
 | 🌐 **Marketing site** | [website-of-principles-app](https://github.com/bob-byte/website-of-principles-app) | React + Vite landing, legal pages, EN/UK i18n, themes, SEO, and account-deletion flow at [principles.top](https://principles.top) |
 
 - **Stack:** Flutter (production) · ASP.NET Core · React · .NET MAUI (legacy client) · PostgreSQL · EF Core · SQLite · OpenAI / Azure OpenAI · Docker · FCM · MVVM
