@@ -126,8 +126,6 @@ Four repositories make up the product:
 
 ## 📊 GitHub Stats
 
-<!-- Best numbers: all-time commits (~1.1k) + streak total contributions (~1.2k). Year-only commits are much lower. -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bob-byte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" height="165" />
   <img src="https://streak-stats.demolab.com/?user=bob-byte&theme=tokyonight&hide_border=true" height="165" />
@@ -135,10 +133,6 @@ Four repositories make up the product:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bob-byte&layout=compact&theme=tokyonight&hide_border=true&hide=html,c%2B%2B,python" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bob-byte&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 ---
