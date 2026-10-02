@@ -23,7 +23,7 @@
 
 .NET developer with 5+ years of commercial experience building multithreading and scalable backend, desktop, web, and mobile applications using ASP .NET Core, .NET MAUI, PostgreSQL, Python, React.js, Vue.js, Azure, WPF, and Flutter. Experienced in migrating legacy systems to modern frameworks, implementing CI/CD processes, and deploying large-scale production applications. Focused on integrating AI capabilities and automation into production systems. Experience spans fintech, productivity, file-sharing, and edtech domains.
 
-Alongside full-time development work, personally designed, built, and shipped an AI-powered productivity app as Founder and Tech Lead - owning everything from architecture to hands-on implementation - and currently teach software engineering and programming at the college level, combining product ownership, engineering, and mentorship.
+Alongside full-time development work, personally designed, built, and shipped **Principles** — an AI-powered productivity app — as Founder and Tech Lead (Flutter production client, ASP.NET Core API, React marketing site; previously .NET MAUI). Currently teach software engineering and programming at the college level, combining product ownership, engineering, and mentorship.
 
 ---
 
@@ -68,18 +68,18 @@ Alongside full-time development work, personally designed, built, and shipped an
 ## 🚀 Featured Projects
 
 ### 🧠 [Principles: Habits for Goals](https://principles.top) - *AI-powered productivity product*
-> An AI assistant for building habits, tracking goals, and managing tasks. Live on **iOS, Android & macOS** with real users and revenue. Designed and shipped end-to-end as solo founder + tech lead.
+> An AI assistant for building habits, tracking goals, and managing tasks. **Production client is Flutter** (iOS, Android & macOS) with real users and revenue. Designed and shipped end-to-end as solo founder + tech lead.
 
 Four repositories make up the product:
 
 | Layer | Repo | Role |
 |-------|------|------|
-| 📱 **Flutter client** | [flutter-frontend-of-principles](https://github.com/bob-byte/flutter-frontend-of-principles) | Primary cross-platform rewrite (iOS, Android, macOS): MVVM, offline SQLite + incremental sync, home-screen widgets, deep links, local notifications, AI Helper chat, EN/UK l10n |
+| 📱 **Flutter client** *(production)* | [flutter-frontend-of-principles](https://github.com/bob-byte/flutter-frontend-of-principles) | Current store / production app (iOS, Android, macOS): MVVM, offline SQLite + incremental sync, home-screen widgets, deep links, local notifications, AI Helper chat, EN/UK l10n |
 | ⚙️ **Backend API** | [backend-of-principles-app](https://github.com/bob-byte/backend-of-principles-app) | ASP.NET Core 10 WebAPI: JWT auth (email / Apple / Google), goals · habits · tasks, bootstrap + incremental sync, AI chat & recommendations, reminders, FCM silent sync push, PostgreSQL + EF Core |
-| 📲 **.NET MAUI client** | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Shipping native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications - the original production app |
+| 📲 **.NET MAUI client** *(previous)* | [maui-frontend-of-principles](https://github.com/bob-byte/maui-frontend-of-principles) | Earlier native Android/iOS client: encrypted SQLite, sync queue, MVVM, AdMob, local notifications — kept for reference and API/behavior parity |
 | 🌐 **Marketing site** | [website-of-principles-app](https://github.com/bob-byte/website-of-principles-app) | React + Vite landing, legal pages, EN/UK i18n, themes, SEO, and account-deletion flow at [principles.top](https://principles.top) |
 
-- **Stack:** Flutter · .NET MAUI · ASP.NET Core · React · PostgreSQL · EF Core · SQLite · OpenAI / Azure OpenAI · Docker · FCM · MVVM
+- **Stack:** Flutter (production) · ASP.NET Core · React · .NET MAUI (legacy client) · PostgreSQL · EF Core · SQLite · OpenAI / Azure OpenAI · Docker · FCM · MVVM
 - Offline-first sync across devices (bootstrap + `/sync/changes`, tombstones, multi-device catch-up)
 - AI Helper, habit/goal recommendations, and profile text suggestions with server-side API keys and cost-aware prompting
 
